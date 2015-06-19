@@ -135,6 +135,7 @@ describe Student do
       avi.name = "Avi"
       avi.insert
 
+
       avi.name = "Bob"
       original_id = avi.id
 
